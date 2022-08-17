@@ -1,0 +1,7 @@
+# server:
+#   port: 7777
+#   ssl:
+#     key-alias: spring-https
+#     key-store: classpath:rhpam.jks
+#     key-store-type: JKS
+#     key-password: jboss123$
